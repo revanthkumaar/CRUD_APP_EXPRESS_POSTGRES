@@ -1,3 +1,4 @@
+//postgres database configuration
 module.exports = {
  HOST: "localhost",
   USER: "postgres",
